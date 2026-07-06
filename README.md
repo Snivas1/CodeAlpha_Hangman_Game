@@ -103,24 +103,27 @@ python main.py
 *(Add Screenshot)*
 
 ---
-
 ## 📸 Screenshots
 
-Store screenshots inside the `screenshots` folder.
+### Main Menu
 
-Example:
+![Main Menu](screenshots/main_menu.png)
 
-```
-screenshots/
-│
-├── main_menu.png
-├── difficulty_menu.png
-├── gameplay.png
-├── winning_screen.png
-└── game_over.png
-```
+### Difficulty Selection
 
----
+![Difficulty Menu](screenshots/difficulty_menu.png)
+
+### Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+### Winning Screen
+
+![Winning Screen](screenshots/winning_screen.png)
+
+### Game Over Screen
+
+![Game Over](screenshots/game_over.png)
 
 ## 🚀 Future Improvements
 
